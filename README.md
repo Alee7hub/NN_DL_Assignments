@@ -1,8 +1,8 @@
-# Neural_Networks_and_Deep_Learning_Assignments
+# Deep_Learning_Specialization_Assignments
 
-Programming assignments from Neural Networks and Deep Learning in the Coursera Deep Learning specialization offered by [deeplearning.ai](https://www.deeplearning.ai/]
+Programming assignments from Deep Learning specialization courses offered by [deeplearning.ai](https://www.deeplearning.ai/] in Coursera.
 
-Instructor: Andrew Ng
+Instructor: \Andrew Ng
 
 # Disclaimer
 
