@@ -2,7 +2,7 @@
 
 Programming assignments from Deep Learning specialization courses offered by [deeplearning.ai](https://www.deeplearning.ai/) in Coursera.
 
-Instructor: \Andrew Ng
+Instructor: Andrew Ng
 
 # Disclaimer
 
